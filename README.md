@@ -6,5 +6,4 @@
 - 🤔 Quero melhorar minhas habilidades em **código limpo** e **responsividade**  
 - 💬 Pergunte-me sobre **WordPress, Elementor e fundamentos de Front-End**  
 - 📫 Como falar comigo: **brunohenrique.silva@hotmail.com**  
-- 😄 Pronomes: Ele/Dele  
 - ⚡ Curiosidade: Sou Engenheiro Mecânico de formação e agora estou migrando para a área de tecnologia 🚀  
